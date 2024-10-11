@@ -10,16 +10,3 @@ This project demonstrates how to build a simple neural network using TensorFlow 
 ## Blog
 
 I regularly write about my development experiences and tech on my [blog](https://manulakavishka.blogspot.com/2024/10/building-simple-ai-model-body-font.html). Check it out for tutorials, tips, and updates!
-
-
-### Setup
-
-```bash
-# Clone this repository
-git clone https://github.com/Manulakavishka/Building-a-simple-AI-model-using-python.git
-
-# Navigate into the directory
-cd your-repo
-
-# Install dependencies
-npm install
