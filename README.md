@@ -1,4 +1,4 @@
-# Project Title
+# Building a simple AI model using python
 
 ![GitHub stars](https://img.shields.io/github/stars/Manulakavishka/Building-a-simple-AI-model-using-python)
 ![GitHub forks](https://img.shields.io/github/forks/Manulakavishka/Building-a-simple-AI-model-using-python)
